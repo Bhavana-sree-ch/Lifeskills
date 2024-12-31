@@ -65,3 +65,7 @@
 * Fraud detection and network analysis.
 * Knowledge graphs and hierarchical data systems.
 
+
+#### References
+
+https://www.geeksforgeeks.org/types-of-nosql-databases/
