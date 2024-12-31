@@ -30,26 +30,26 @@
          Key-value store
 ####   Key Features:
 * In-memory data storage ensures extremely low latency.
-*      Offers data structures like lists, sets, sorted sets, and hashes.
-*        Supports pub/sub messaging, streams, and Lua scripting.
-*        Persistence options for durability (e.g., snapshots, append-only files).
+* Offers data structures like lists, sets, sorted sets, and hashes.
+* Supports pub/sub messaging, streams, and Lua scripting.
+* Persistence options for durability (e.g., snapshots, append-only files).
 ####   Use Cases:
-*        Caching to reduce load on primary databases.
-*        Real-time applications like leaderboards, chat systems, and session management.
-*        Analytics pipelines and queue management.
+* Caching to reduce load on primary databases.
+* Real-time applications like leaderboards, chat systems, and session management.
+* Analytics pipelines and queue management.
 
 ## 4. Couchbase
 
 ####    Type: 
          Document-oriented
 ####    Key Features:
-*        Combines the flexibility of a document store with the scalability and high availability of a distributed system.
-*        Integrated full-text search and built-in support for SQL-like queries via N1QL.
-*        Memory-first architecture for high performance.
-*        Cross-datacenter replication for disaster recovery and global data distribution.
+* Combines the flexibility of a document store with the scalability and high availability of a distributed system.
+* Integrated full-text search and built-in support for SQL-like queries via N1QL.
+* Memory-first architecture for high performance.
+* Cross-datacenter replication for disaster recovery and global data distribution.
 ####    Use Cases:
-*        Mobile and IoT applications requiring offline-first capabilities.
-*        High-performance applications in retail, finance, and healthcare.
+* Mobile and IoT applications requiring offline-first capabilities.
+* High-performance applications in retail, finance, and healthcare.
 
 ## 5. Neo4j
 
